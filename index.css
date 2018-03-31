@@ -2,3 +2,18 @@
   background-color: #21e8dc;
   overflow: hidden;
 }
+.topav a{
+  float: left;
+  color: #ffffff
+  text-align:center;
+  padding: 14px 16px;
+  font-size: 16px;
+
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active{
+  background-color: #37c3bb;
+}
